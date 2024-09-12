@@ -1,0 +1,16 @@
+[gene-expression],,
+reference,/data/gc-core/sbsuser/10X_Refs/refdata-custom-gex-GRCh38-2020-A-jeya-v4/GRCh38-2020-A_bfp,
+include-introns,false,
+,,
+[libraries],,
+fastq_id,fastqs,feature_types
+p_gem,/scratch/seq_data/NovaSeq6000/230616_A00814_0770_AH7H2NDSX7/Analysis/fastq/Chen-XD-14510_2023_06_16,Gene Expression
+s_cmo,/scratch/seq_data/NovaSeq6000/230616_A00814_0770_AH7H2NDSX7/Analysis/fastq/Chen-XD-14510_2023_06_16,Multiplexing Capture
+,,
+[samples],,
+sample_id,cmo_ids,
+Jeya_1,CMO301,
+Jeya_2,CMO302,
+Jeya_3,CMO303,
+WT,CMO311,
+WT_treatment,CMO312,
